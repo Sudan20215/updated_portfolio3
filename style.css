@@ -49,3 +49,11 @@
     padding: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#socil{
+    position: absolute;
+    left: 0px;
+    height: 120px;
+}
+.contact{
+    margin: 0px 0px 0px 190px;
+}
