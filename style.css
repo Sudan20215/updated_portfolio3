@@ -2,7 +2,8 @@
     padding: 0px;
 }
 #info{
-    margin:110px 470px 310px 190px;
+   
+    margin:0px 420px 100px 200px;
     
 }
 #info1{
@@ -13,7 +14,7 @@
 }
 
 #texxt{
-    padding: 0px;
+    padding: 10px;
     font-size: large;
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -56,4 +57,7 @@
 }
 .contact{
     margin: 0px 0px 0px 190px;
+}
+.watch{
+    margin:40px;
 }
