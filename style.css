@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+}
+#info{
+    margin:110px 470px 310px 190px;
+    
+}
+#info1{
+    display: flex;
+    justify-content: center;
+    margin: 10px 250px 30px 250px;
+    font-size: large;
+}
+
+#texxt{
+    padding: 0px;
+    font-size: large;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#aboutMe{
+    margin: 100px 120px 100px 80px;
+    height: 280px;
+    display: flex;
+    align-content:center;
+    justify-content: center;
+    font-size: 30px;
+}
+#image1{
+    width: 200px;
+    position: relative;
+    margin: 5px 10px 100px 10px;
+    padding: 0px;
+}
+#homeCard{
+    margin: 20px 90px 90px 90px;
+    width: 90%;
+    height: 100%;
+    padding: 40px;
+}
+#contact{
+    margin: 10px 190px 200px 100px;
+    width: 90%;
+    height: 100%;
+    padding: 100px;
+}
+#textc{
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
