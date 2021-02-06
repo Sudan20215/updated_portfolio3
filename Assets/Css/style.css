@@ -61,3 +61,14 @@
 .watch{
     margin:40px;
 }
+#content{
+    padding: 10px 2px 3px 4px;
+    margin: 10px 20px 30px 40px;
+    justify-content: center;
+}
+.footer{
+    padding: 10px 2px 3px 4px;
+    position:absolute;
+    width:100%;
+    bottom:0px;
+}
