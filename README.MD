@@ -16,7 +16,7 @@
 
 <br>
 <h1>About the app</h1>
-<p> The app is basically focused on detail about me. I have updated all the profile and latest pictures of mine also you can contact me through linkedin. I have used sweetalert in index.html so that there is something new.</p>
+<p> The app is basically focused on detail about me. I have updated all the profile and latest pictures of mine also you can contact me through linkedin. I have used sweetalert in index.html so that there is something new. The app is updated Portfolio of mine.</p>
 
 <h1>Deployed link</h1>
 
